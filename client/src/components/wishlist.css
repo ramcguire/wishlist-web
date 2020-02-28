@@ -1,0 +1,60 @@
+ul {
+  padding: 0;
+  width: 60%;
+  margin: auto;
+  list-style: none;
+}
+
+li {
+  font-size: 1.2rem;
+  line-height: 2rem;
+  border: 8px ridge #4d9e3a;
+  padding: 12px 20px;
+  margin: 8px;
+}
+
+input[type=text],
+select {
+  border-radius: 8px;
+  display: inline-block;
+  box-sizing: border-box;
+  padding: 4px 10px;
+  margin: 0 0;
+}
+
+.url-input {
+  width: 80%;
+}
+
+label {
+  display: inline-block;
+  clear: left;
+  width: 150px;
+  text-align: left;
+  margin-left: -20px;
+}
+
+button {
+  background-color: #FF2E3D;
+  border: none;
+  color: white;
+  padding: 6px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 4px;
+  width: 120px;
+}
+
+.hidden {
+  display: none;
+}
+
+.add-item {
+  height: 49px;
+  width: 80%;
+  margin: 27px;
+}

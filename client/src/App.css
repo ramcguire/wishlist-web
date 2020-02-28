@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 80px;
+  width: auto;
+}
+
+.App-header {
+  background-color: #4d9e3a;
+  height: 154px;
+  padding: 6px;
+  font-family: 'Lobster', cursive;
+  font-size: large;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
