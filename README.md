@@ -13,8 +13,8 @@ After starting the server, the main page will display a search box. It will prom
 you to enter a name, and hit enter. The search functionality is NOT case sensitive.
 This is the default functionality for SQL servers. 
 
-Two lists are populated with sample data: ryan and monica.
-Enter either "ryan" or "monica" in the search bar and hit enter to see the sample
+Two lists are populated with sample data: user1 and user2.
+Enter either "user1" or "user2" in the search bar and hit enter to see the sample
 data.
 
 If you would like to create your own list, enter your name in the search box and hit
